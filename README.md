@@ -1,1 +1,1 @@
-# Homework.-Informatics
+# Лабораторная работа (ДЗ)
