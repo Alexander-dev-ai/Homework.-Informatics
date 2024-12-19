@@ -13,3 +13,19 @@
 grep "люблю" text.txt 
 ```
 4. Запустите команду и убедитесь, что в консоли высвечивается содержимое файла text.txt, а искомое слово "люблю" подсвечено. 
+## Задание лабораторной работы
+Создайте файл t.txt и напишите в нем слудеющий текст:
+
+Peter Piper picked a peck of pickled peppers
+A peck of pickled peppers Peter Piper picked
+If Peter Piper picked a peck of pickled peppers
+Where`s the peck of pickled peppers Peter Piper picked?
+
+На основе изученного материала лабораторной работы, дополнительных источников напишите скрипт, вызов которого выведет содержимое файла t.txt с подсвеченными словами, начинающимися на "p" и заканчивающимися на "r". Регистр неважен. 
+## Дополнительные источники 
+1. selectel.ru/blog/tutorials/grep-command-in-linux
+2. wiki.merionet.ru/articlesrukovodstvo-po-komande-grep-v-linux
+3. imeweb.cloud/tutorials/linux/komanda-grep-v-linux
+
+
+
