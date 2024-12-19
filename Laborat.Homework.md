@@ -23,9 +23,9 @@ Where`s the peck of pickled peppers Peter Piper picked?
 
 На основе изученного материала лабораторной работы, дополнительных источников напишите скрипт, вызов которого выведет содержимое файла t.txt с подсвеченными словами, начинающимися на "p" или заканчивающимися на "r". Регистр неважен. 
 ## Дополнительные источники 
-1. selectel.ru/blog/tutorials/grep-command-in-linux
-2. wiki.merionet.ru/articlesrukovodstvo-po-komande-grep-v-linux
-3. imeweb.cloud/tutorials/linux/komanda-grep-v-linux
+1. https://selectel.ru/blog/tutorials/grep-command-in-linux
+2. https://wiki.merionet.ru/articles/rukovodstvo-po-komande-grep-v-linux
+3. https://timeweb.cloud/tutorials/linux/komanda-grep-v-linux
 
 
 
