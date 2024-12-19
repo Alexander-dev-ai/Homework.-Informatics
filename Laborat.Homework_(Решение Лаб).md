@@ -2,4 +2,4 @@
 * **Открываем терминал**
 Запускаем терминал при помощи одновременного нажатия горячих клавиш ctrl+alt+t (можно также при помощи поиска, иконка которго находится в нижнем правом углу).
 
-(![alt text](https://github.com/Alexander-dev-ai/Homework.-Informatics/blob/main/Fotos/%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%B5%D0%BC%20%D1%84%D0%B0%D0%B9%D0%BB.png))
+![alt text](https://github.com/Alexander-dev-ai/Homework.-Informatics/blob/main/Fotos/%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%B5%D0%BC%20%D1%84%D0%B0%D0%B9%D0%BB.png)
